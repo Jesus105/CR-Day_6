@@ -1,0 +1,14 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "Clase de cinta roja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus_Dev",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
