@@ -26,7 +26,7 @@ const getMoveNames = (id) =>{
         {
     
             Array_moves.push(pokemon.moves[i].move.name) 
-            console.log(Array_moves[k])
+            console.log(Array_moves[i])
     
         }    
          
